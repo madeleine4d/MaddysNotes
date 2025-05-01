@@ -1,0 +1,3 @@
+*Solutions*
+
+I have been able to characterize a affibody specific for Vascular Endothelial Growth Factor (VEGF) that is key to the formation of new blood vessels. This affibody was characterized by my lab and exists in three affinity levels with three distinct release profiles. I have been working to measure these release profiles to allow for future development of precisely controlled release gels that will mimic the ideal natural response. We are also testing the effect of out controlled release gels on vascular fragments derived from rats. 

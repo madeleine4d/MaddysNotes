@@ -1,0 +1,1 @@
+to find the number of ways to uniquely arrange objects with duplicates $\frac{n!}{\sum\limits k_i!}$ where $k_i$ is the number of each class of objects.
