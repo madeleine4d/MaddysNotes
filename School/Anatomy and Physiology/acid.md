@@ -1,0 +1,1 @@
+Acids are electron acceptors. They also tend to decrease [[pH]]

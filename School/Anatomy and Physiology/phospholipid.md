@@ -1,0 +1,1 @@
+A phosphorylated diacylglycerol fatty acid.

@@ -1,0 +1,1 @@
+Materials on or in which charge is immobile.

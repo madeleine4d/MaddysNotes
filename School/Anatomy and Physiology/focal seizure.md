@@ -1,0 +1,1 @@
+localized to just one area of the brain, contrast: generalized seizures which occur in locations in both right and left

@@ -1,0 +1,13 @@
+- generally driven by the [[industrial revolution]], mean [[Europe]]an counties were able to export raw materials from out side of [[Europe]]--to feed the new factories of [[Europe]]. 
+- this quickly progressed to the forced take over of exploited countries and often the [[forced labor]] of those populations
+- <mark style="background: #FFB86CA6;">the British only exploited and did not settle</mark>
+- main exports
+	- indigo
+	- spices
+	- cotton
+	- tea
+	- gold
+	- diamond
+### Good things under [[British colonialism]]
+- abolishment of [[sati]]
+- [[English education]] 

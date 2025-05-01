@@ -1,0 +1,16 @@
+- usually differ to lower courts
+- focusing on interpretations of the law
+- multiple judges
+	- assigned by cheif judge, clerk of the court, or circuit executives (often by random)
+	- studies show that D.C. circuit s 8 and 9 do not us random assignments 
+- set precedent for region
+- can be ideologically motivated
+- high reliance on clerks
+- clerk of the court decides what cases are herd
+- central staff attorneys decide if a appeal is given plenary consideration
+- most argue through writing not oral hearings (oral arguments are reletivly rare and controverisal)
+- types of briefs:
+	- certiorari patitions
+	- brief from litigants
+	- amicus curiae “friend of the court” briefs 
+- 

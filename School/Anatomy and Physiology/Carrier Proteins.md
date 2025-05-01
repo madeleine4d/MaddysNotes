@@ -1,0 +1,1 @@
+A protein that interacts with a molecule and moves it across and [[Cell Membrane]], via [[facilitated diffusion]]. [[Flow]] can only occur down a gradient with carrier proteins. Carrier proteins are always specific to one or more molecule.

@@ -1,0 +1,1 @@
+A somewhat rigid section in which there are no axis of rotation. example, the thigh. 

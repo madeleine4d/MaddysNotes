@@ -1,0 +1,1 @@
+allows charged ions to cross between cells, allowing the [[Flow]] of [[action potential]]s 
