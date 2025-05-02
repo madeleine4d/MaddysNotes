@@ -17,4 +17,4 @@ Equilibrium potential occurs when the charge force balances the concentration fo
 Assuming a standard temperatures the equation can be simplified and solved for a voltage.$\huge{v_{m}={61\over z} \cdot \log_{10} {[C]_{O}\over [C]_{i}}}$; where *z* is the ion charge and C is the concentration inside ($[C]_{O}$) and outside ($[C]_{i}$)
 
 #### Goldman Equation 
-The same as the [[equilibrium potential#Nernst Equation]] except it calculates the [[membrane potential]] for accounting for all ions and thier concentrations.
+The same as the [[equilibrium potential#Nernst Equation]] except it calculates the [[Membrane Potential]] for accounting for all ions and thier concentrations.

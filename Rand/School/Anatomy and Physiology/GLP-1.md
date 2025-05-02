@@ -1,4 +1,4 @@
-[[Glucagon]] like protein 1
+[[glucagon]] like protein 1
 
 ![[Pasted image 20250205085710.png]]
 

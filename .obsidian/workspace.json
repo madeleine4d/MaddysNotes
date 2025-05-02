@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Anatomy and Physiology/MRI.md",
+                "file": "Rand/School/Anatomy and Physiology/MRI.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "642e6b4a1b4785b0",
@@ -202,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "School/Anatomy and Physiology/MRI.md",
+                "file": "Rand/School/Anatomy and Physiology/MRI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,8 +250,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "643d72526dbc509e",
+  "active": "a552472480b6057b",
   "lastOpenFiles": [
+    "README.md",
+    "Rand/School/Anatomy and Physiology/MRI.md",
     "MaddysNotes/basic combinatorics.md",
     "MaddysNotes/Auxotroph.md",
     "MaddysNotes/Exercise Flow Chart.canvas",
@@ -292,16 +292,14 @@
     "MaddysNotes/Daily Jots/15 Aug 2023.md",
     "MaddysNotes/Daily Jots",
     "MaddysNotes",
-    "School/Anatomy and Physiology/MRI.md",
-    "School/Chem/acetal.md",
-    "School/Chem/carbohydrates.md",
-    "School/Chem/Imidazole.md",
-    "School/Chem/pyridine.md",
-    "School/Clinical Neuro Cases/Case 9 — Hydrocephalus.md",
-    "School/Clinical Neuro Cases/Assets/Case_report_9.pdf",
-    "School/Clinical Neuro Cases/Case 8 — anti-GAD associated neurologic disorder.md",
-    "School/Clinical Neuro Cases/Assets/Case_Report_8.pdf",
-    "School/Clinical Neuro Cases/Assets/EEG_nocturnal_frontal_lobe_epilepsy.pdf",
+    "Rand/School/Chem/acetal.md",
+    "Rand/School/Chem/carbohydrates.md",
+    "Rand/School/Chem/Imidazole.md",
+    "Rand/School/Chem/pyridine.md",
+    "Rand/School/Clinical Neuro Cases/Case 9 — Hydrocephalus.md",
+    "Rand/School/Clinical Neuro Cases/Assets/Case_report_9.pdf",
+    "Rand/School/Clinical Neuro Cases/Assets/Case_Report_8.pdf",
+    "Rand/School/Clinical Neuro Cases/Assets/EEG_nocturnal_frontal_lobe_epilepsy.pdf",
     "Regulation of Blood pressure.canvas",
     "Exercise Flow Chart.canvas",
     "Test canvas.canvas",
