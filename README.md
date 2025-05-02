@@ -1,1 +1,1 @@
-Sparatic notes starting part way through college
+Sporadic notes starting part way through college
