@@ -31,8 +31,3 @@ looking at gamma rays from radioactive inject tracer, behave like specific biolo
 
 fMRI:
 shows changes in oxygenated heme analogues to neural activity. Low temporal resolution
-
-
-
-
-https://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@github.com/madeleine4d/MaddysNotes.git

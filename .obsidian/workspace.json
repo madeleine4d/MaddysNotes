@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rand/School/Anatomy and Physiology/MRI.md",
+                "file": "Rand/YDSA elect me pls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MRI"
+              "title": "YDSA elect me pls"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "642e6b4a1b4785b0",
@@ -200,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rand/School/Anatomy and Physiology/MRI.md",
+                "file": "Rand/School/Anatomy and Physiology/NMR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,14 +229,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MRI"
+              "title": "Graph of NMR"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +252,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a552472480b6057b",
+  "active": "7b6727fd357b00ca",
   "lastOpenFiles": [
+    "Rand/JVP elect me pls.md",
+    "Rand/YDSA elect me pls.md",
+    "School/Anatomy and Physiology/resistors.md",
+    "School/Anatomy and Physiology/current density.md",
+    "School/Anatomy and Physiology/traumatic brain injury.md",
+    "School/Anatomy and Physiology/spinal cord injury.md",
+    "School/Anatomy and Physiology/Huntington's.md",
+    "School/Anatomy and Physiology/Consciousness.md",
+    "School/Anatomy and Physiology/Couse Information.md",
+    "School/Anatomy and Physiology/Condensation reaction.md",
+    "School/Anatomy and Physiology/Channel Proteins.md",
+    "School/Anatomy and Physiology/Central Dogma of Biology.md",
+    "School/Anatomy and Physiology/Cell Membrane.md",
+    "School/Anatomy and Physiology/Carrier Proteins.md",
+    "School/Anatomy and Physiology/CT.md",
+    "School/Anatomy and Physiology/Brain Gross Makeup.md",
+    "School/Anatomy and Physiology/Bone.md",
+    "School/Anatomy and Physiology/Big Hormone Table.md",
+    "School/Anatomy and Physiology/Assenting sensory tract.md",
+    "School/Anatomy and Physiology/Adrenal Gland.md",
+    "School/Anatomy and Physiology/Absense seizure.md",
+    "School/Anatomy and Physiology/epilepsy.md",
+    "School/Engineering/electric potential difference.md",
+    "protein.md",
+    "Assets/Pasted image 20250509091110.png",
+    "Assets/Pasted image 20250509091047.png",
+    "amino acid.md",
+    "School/Engineering/capacitors.md",
+    "Assets/Pasted image 20250509090644.png",
+    "School/Engineering/Assets/Pasted image 20250502180625.png",
+    "School/Engineering/Assets/Pasted image 20250502180602.png",
+    "School/Engineering/Assets/Pasted image 20250502175804.png",
+    "School/Engineering/Assets/Pasted image 20250502175743 1.png",
+    "School/Engineering/Assets/Pasted image 20250502175743.png",
     "Anki/pronunciation OSTE 1.apkg",
     "Anki/Solubility Rules UO CH 221.apkg",
     "Anki/Organic_chemistry_mechanisms.apkg",
@@ -259,47 +295,13 @@
     "Anki/Organic_Chemistry_1_Mechanisms.apkg",
     "Anki/Med Terms.apkg",
     "Anki",
-    "README.md",
-    "Rand/School/Anatomy and Physiology/MRI.md",
-    "MaddysNotes/basic combinatorics.md",
-    "MaddysNotes/Auxotroph.md",
     "MaddysNotes/Exercise Flow Chart.canvas",
-    "MaddysNotes/amines.md",
-    "MaddysNotes/brain stimulation.md",
-    "MaddysNotes/Notes On Obsidian.md",
-    "MaddysNotes/Palmar interossei.md",
     "MaddysNotes/Regulation of Blood pressure.canvas",
-    "MaddysNotes/Rand/JVP elect me pls.md",
-    "MaddysNotes/Rand/ICE Watch.md",
     "MaddysNotes/Rand",
     "MaddysNotes/Assets/Pasted image 20250428091811.png",
     "MaddysNotes/Assets/Pasted image 20250428091513.png",
-    "MaddysNotes/Assets/Pasted image 20250428091438.png",
-    "MaddysNotes/Assets/Pasted image 20250428091416.png",
-    "MaddysNotes/Assets/Pasted image 20250428091353.png",
-    "MaddysNotes/Assets/Pasted image 20250428091108.png",
-    "MaddysNotes/Assets/Pasted image 20250428091003.png",
-    "MaddysNotes/Assets/Pasted image 20250428090925.png",
-    "MaddysNotes/Assets/Pasted image 20250428090806.png",
-    "MaddysNotes/Assets/Pasted image 20250421154403.png",
     "MaddysNotes/Assets",
-    "MaddysNotes/Work/Quote Bank.md",
-    "MaddysNotes/Work/3 minute research story/Setup.md",
-    "MaddysNotes/Work/3 minute research story/Frame work.md",
-    "MaddysNotes/Work/3 minute research story/Development.md",
-    "MaddysNotes/Work/3 minute research story/Complicating Action.md",
-    "MaddysNotes/Work/3 minute research story/Climax.md",
-    "MaddysNotes/Work/VEGF.md",
-    "MaddysNotes/Work/VEGF Heparin Binding.md",
     "MaddysNotes/Work/Assets",
-    "MaddysNotes/Work/3 minute research story",
-    "MaddysNotes/Daily Jots/Random Math.md",
-    "MaddysNotes/Daily Jots/Big Ol_ To Do List.md",
-    "MaddysNotes/Daily Jots/15 Aug 2023.md",
-    "Rand/School/Chem/acetal.md",
-    "Rand/School/Chem/carbohydrates.md",
-    "Rand/School/Chem/Imidazole.md",
-    "Rand/School/Chem/pyridine.md",
     "Regulation of Blood pressure.canvas",
     "Exercise Flow Chart.canvas",
     "Test canvas.canvas",
