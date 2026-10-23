@@ -1,4 +1,4 @@
-![[Pasted image 20250416084545.png]]
+![[Assets/20250416084545.png]]
 
 ## Major rxns
 general substitution 

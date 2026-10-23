@@ -3,8 +3,11 @@
   "table-editor-obsidian",
   "highlightr-plugin",
   "obsidian-smart-typography",
-  "quick-latex",
   "obsidian-relative-line-numbers",
   "omnisearch",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite",
+  "obsidian-tasks-plugin",
+  "local-dictation",
+  "obsidian-linter"
 ]

@@ -1,0 +1,4 @@
+- [[natural selection]]
+- genetic drift: change in heritable traits by random chance. (more likely to occur in smaller populations)
+	- bottleneck effect: a large population become a small population.
+	- founder effect: a small number of organizes arrive in a new environment. 

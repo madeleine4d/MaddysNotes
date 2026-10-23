@@ -30,12 +30,6 @@ while(var <= 20)
 ```
 or in line with `code block`. These show up better on dark mode.
 
-
-##### Flash cards and Review
-Use `#review` tag to set a page as up for review. Press `Ctrl + Alt + R` to open a random page to review. `Ctrl + Alt + j/k/l` mark review as easy/good/hard.
-
-Use `#flashcards` tag to set page as containing flash cards. Make flash cards as such: Front::back
-
 ##### Tables
 |     | name  | age |
 | --- | ----- | --- |
@@ -47,8 +41,7 @@ Use `#flashcards` tag to set page as containing flash cards. Make flash cards as
 `Ctrl + Shift + H` for orange 
 
 ##### Regex
-Start with `/` in search bar. Use \d to search any number. Use \w to search for any word. Use \W for anything that is not a work and \s for spaces
-
+Start with `/` in search bar. Use \d to search any number. Use \w to  search for any word. Use \W for anything that is not a work and \s for spaces
 
 > [!All callout types]
 > - info
@@ -63,6 +56,9 @@ Start with `/` in search bar. Use \d to search any number. Use \w to search for 
 > - bug
 > - example
 > - quote and cite
+
+
+
 
 
 

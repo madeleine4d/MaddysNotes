@@ -3,6 +3,6 @@
   "attachmentFolderPath": "./Assets",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": true
 }

@@ -1,1 +1,5 @@
-$$J=\text{current density}= \frac{I}{A}= \sigma E $$
+
+
+$$J=\text{current density}= \frac{I}{A}= \sigma E$$
+
+

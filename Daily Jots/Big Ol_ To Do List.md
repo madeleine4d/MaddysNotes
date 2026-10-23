@@ -1,4 +1,0 @@
-- [x] Get "Anatomy & Physiology Revealed, Web-Based Program"
-- [x] Get a box of Nitrile Gloves ([here](Anatomy & Physiology Revealed, Web-Based Program))
-- [x] get colored pencils
-- [ ] 
