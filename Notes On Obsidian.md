@@ -10,18 +10,18 @@
 - `Ctrl + D`: delete paragraph
 - `2x Ctrl + -`: make a check box from non list line
 
-##### Tags
+## Tags
 **bullet notes**:
 - Use a slash the make sub tags. *for example:* `#bio/genetics`
-##### Math
+## Math
 `$content$` is used to create one line [LaTex](https://www.latex-project.org/) environment.
 *Example:* $2O_{2} + CH_{4} \to CO_{2} +2H_{2}O$ 
 The LaTex suite is being used to streamline so `\ce` is not needed and only slows things down
 
-##### Heading search
+## Heading search
 The Quick Switcher++ plugin is used. `Ctrl + l` opens switcher to search for headings like the one above this block
 
-##### Code blocks
+## Code blocks
 ```python
 var = 0
 while(var <= 20)
@@ -30,17 +30,17 @@ while(var <= 20)
 ```
 or in line with `code block`. These show up better on dark mode.
 
-##### Tables
+## Tables
 |     | name  | age |
 | --- | ----- | --- |
 |     | Letty | 27  |
 |     | Mori  | 98  |
 
-##### Highlighting
+## Highlighting
 `Ctrl + Shift + [/]` for pink/purple
 `Ctrl + Shift + H` for orange 
 
-##### Regex
+## Regex
 Start with `/` in search bar. Use \d to search any number. Use \w to  search for any word. Use \W for anything that is not a work and \s for spaces
 
 > [!All callout types]
